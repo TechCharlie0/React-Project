@@ -35,7 +35,7 @@ const App = () => {
     <div className="min-h-screen flex flex-col bg-slate-800">
       <Navbar />
       <div className="bg-slate-800">
-        {/* Filter component to filter categories */}
+         {/* Filter component to filter categories  */}
         <Filter
           FilterData={FilterData}
           category={category}

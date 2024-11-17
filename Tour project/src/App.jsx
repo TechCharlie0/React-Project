@@ -6,7 +6,7 @@ function App() {
   const [tours, setTours] = useState(data);
 
   function removeTours(id) {
-    const newTours = tours.filter(tour => tour.id !== id); // Corrected "touur" to "tour"
+    const newTours = tours.filter(tour => tour.id !== id); 
     setTours(newTours);
   }
   if(tours.length ===0){
