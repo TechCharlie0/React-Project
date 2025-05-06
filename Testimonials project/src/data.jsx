@@ -1,7 +1,7 @@
 const reviews = [
     {
         id: 1,
-        name: "Ishan Kandel",
+        name: "Isha Kandel",
         job: "Software Engineer", 
         image: "https://aeccc.targettechnology.in/static/media/PranayGupta.f3c530b7630ba8efb2ab.jpg",
         text: "I’m always excited to learn new technologies and stay up-to-date with the latest trends in the tech industry. I have had the pleasure of working with this team on several projects, and I am always excited .",
